@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Train+One&display=swap");
 
 * {
   box-sizing: border-box;
@@ -7,7 +7,7 @@
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Major Mono Display', monospace;
+  font-family: "Train One", cursive;
   line-height: 1.5;
 }
 
@@ -19,19 +19,19 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: #87d7cc;
-  color: #2c888d;
+  background: #607292;
+  color: #fff;
 }
 
 h2 {
-  color: #49b2b8;
+  color: #fff;
   font-size: 30px;
   text-align: center;
   margin: 0;
 }
 
 .timer {
-  color: #1f6e72;
+  color: #fff;
   font-size: 150px;
   margin-bottom: 20px;
 }
@@ -40,8 +40,8 @@ h2 {
   outline: none;
   border: none;
   font-size: 24px;
-  background: #f7fca0;
-  color: #878b32;
+  background: #a0fcf0;
+  color: #1c5040;
   border-radius: 5px;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
   padding: 15px 30px;
@@ -51,7 +51,7 @@ h2 {
 
 .buttons button:hover {
   border-radius: 10px;
-  background: #f5f8ca;
+  background: #43a2e2;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
   transform: translateY(-2px);
 }
